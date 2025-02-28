@@ -63,5 +63,5 @@ def centered_star_pyramid(n):
 
     result += "\n"
 
-  return result.strip()
+  return result.rstrip()
 
